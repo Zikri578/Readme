@@ -91,7 +91,7 @@ My goal is simple:
 📈 Data Visualization & Business Intelligence
 
 <p align="left"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="50" height="50" alt="Power BI"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" width="50" height="50" alt="Excel"/> 
     <img src="https://cdn.simpleicons.org/tableau" width="50" height="50" alt="Tableau"/> 
 </p>
 
