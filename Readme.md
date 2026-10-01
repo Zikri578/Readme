@@ -149,19 +149,6 @@ Data Analytics Skills
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Zikri578&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7"/> </p>
 
-🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Zikri578/Zikri578/output/github-contribution-grid-snake-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Zikri578/Zikri578/output/github-contribution-grid-snake.svg">
-
-  <img alt="GitHub Contribution Snake"
-       src="https://raw.githubusercontent.com/Zikri578/Zikri578/output/github-contribution-grid-snake.svg">
-</picture>
-
 📈 My Data Philosophy
 
 <p align="center">
